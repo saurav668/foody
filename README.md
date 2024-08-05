@@ -22,18 +22,20 @@ Installation
 •	npm (v6 or higher)
 
 Installation Steps
-1.	Clone the repository:
 
+1.	Clone the repository:
 git clone https://github.com/saurav668/foody
+
 cd foody
 
-2.	Install dependencies:
+3.	Install dependencies:
 npm install
 
-3.	Create a .env file in the root directory and add your environment variables  (e.g., API keys, database URLs).
+4.	Create a .env file in the root directory and add your environment variables  (e.g., API keys, database URLs).
 
-4.	Start the development server:
-npm start
+5.	Start the development server:
+    npm start
+  	
 Technologies
 •	React.js
 •	React Router (routing)
